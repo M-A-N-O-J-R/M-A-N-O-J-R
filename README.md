@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-<!--
-**M-A-N-O-J-R/M-A-N-O-J-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an engineering student interested in web development,movies,sports...
 
 Here are some ideas to get you started:
 
