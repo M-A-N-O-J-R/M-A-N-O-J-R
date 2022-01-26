@@ -1,3 +1,4 @@
+</br>
 <p align="center"><img width="600" alt="funny gif" src="https://github.com/M-A-N-O-J-R/M-A-N-O-J-R/blob/main/text1.gif" align="center"/></p>
 
 ### About me :
