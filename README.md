@@ -1,9 +1,12 @@
 <p align="center"><img width="600" alt="funny gif" src="https://github.com/M-A-N-O-J-R/M-A-N-O-J-R/blob/main/text1.gif" align="center"/></p>
 
 ### About me :
+
 <p>
    I'm manoj, a 20 year old student currently studying at SSN College of Engineering , Chennai. I'm pursuing a Bachelor's degree in Information Technology. I really like coding and I'm experienced (amaeture) in programming languages like  C++ and JavaScript, to name a few. 
+   <a href="https://drive.google.com/file/d/1UL9BlAt2LnVWMwI8mEkXBXc2bL781QFF/view?usp=sharing">Resume📄</a>
 </p>
+
 
 
 
