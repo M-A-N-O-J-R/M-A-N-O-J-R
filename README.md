@@ -1,6 +1,6 @@
 <p align="center"><img width="600" alt="funny gif" src="https://github.com/M-A-N-O-J-R/M-A-N-O-J-R/blob/main/text1.gif" align="center"/></p>
 
-### About me:
+### About me :
 <p>
    I'm manoj, a 20 year old student currently studying at SSN College of Engineering , Chennai. I'm pursuing a Bachelor's degree in Information Technology. I really like coding and I'm experienced (amaeture) in programming languages like  C++ and JavaScript, to name a few. 
 </p>
@@ -14,7 +14,7 @@
 
 <img  alt="gif" src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" align="right"/>
 
-### Technical skills -
+### Technical skills :
 
 ![React](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/Firebase-ED8B00?style=for-the-badge&logo=firebase&logoColor=white)
@@ -37,7 +37,7 @@
 
 ---
 
-### Check out my stats!
+### Check out my stats :
 <p align="center">
   <table>
     <tr>
@@ -50,7 +50,7 @@
 
 ---
 
-### Contact me 
+### Contact me :
 
 <a href="https://www.linkedin.com/in/manoj-ravichandran-12b5841b2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:manojravichandran12@gmail.com"><img src="https://img.shields.io/badge/-Mail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"></a>
