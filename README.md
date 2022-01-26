@@ -1,21 +1,19 @@
-### Hello y'all!, I'm Manoj Ravichandran 👋
+<p align="center"><img width="600" alt="funny gif" src="https://github.com/M-A-N-O-J-R/M-A-N-O-J-R/blob/main/text1.gif" align="center"/></p>
 
-<p align="center"><img width="600" alt="funny gif" src="https://www.gtplanet.net/forum/media/gif-kratos-after-he-finds-out-god-of-war-2018-wins-the-game-awards-goty-award.46106/full" align="center"/></p>
-
-
+### About me:
 <p>
-   I'm pursuing my bachelor's in Information Technology  at SSN College of Engineering chennai.
+   I'm manoj, a 20 year old student currently studying at SSN College of Engineering , Chennai. I'm pursuing a Bachelor's degree in Information Technology. I really like coding and I'm experienced (amaeture) in programming languages like  C++ and JavaScript, to name a few. 
 </p>
 
 <p>
-- 🔭 I’m currently working on Password Manager tool.</br>
+- 🔭 I’m currently working on Password Management tool.</br>
 - 🌱 I’m currently learning learning Dynamic Programming</br>
 - 👯 I’m looking to collaborate on FullStack Projects</br>
 - 📫 How to reach me: manojravichandran12@gmail.com
 </p>
 
 </br>
-</br>
+
 
 ---
 
@@ -40,11 +38,10 @@
 <br/>
 <br/>
 <br/>
----
-
 
 ---
-## Check out my stats!
+
+### Check out my stats!
 <p align="center">
   <table>
     <tr>
@@ -54,7 +51,8 @@
   </table
 </p>
 </br>
-</br>
+
+---
 
 ### Contact me 
 
