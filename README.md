@@ -5,12 +5,7 @@
    I'm manoj, a 20 year old student currently studying at SSN College of Engineering , Chennai. I'm pursuing a Bachelor's degree in Information Technology. I really like coding and I'm experienced (amaeture) in programming languages like  C++ and JavaScript, to name a few. 
 </p>
 
-<p>
-- 🔭 I’m currently working on Password Management tool.</br>
-- 🌱 I’m currently learning learning Dynamic Programming</br>
-- 👯 I’m looking to collaborate on FullStack Projects</br>
-- 📫 How to reach me: manojravichandran12@gmail.com
-</p>
+
 
 </br>
 
