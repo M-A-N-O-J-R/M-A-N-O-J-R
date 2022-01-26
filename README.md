@@ -20,6 +20,8 @@
 
 ### Technical skills :
 
+</br>
+
 ![React](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/Firebase-ED8B00?style=for-the-badge&logo=firebase&logoColor=white)
 ![C](	https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
