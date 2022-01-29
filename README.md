@@ -8,7 +8,7 @@
    <a href="https://drive.google.com/file/d/1UL9BlAt2LnVWMwI8mEkXBXc2bL781QFF/view?usp=sharing">Resume📄</a>
    </br>
    
-   - Fun Fact🤔<p>centering a div is black magic 🖤</p>
+   ⚡ &nbsp;Fun fact: centering a div is black magic 🖤
 </p>
 
 
